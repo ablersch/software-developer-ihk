@@ -1,0 +1,8 @@
+@startuml
+class Person {
+    + Name
+    + Telefonnummer
+    + E-MailAdresse
+    + WohnAdresse
+}
+@enduml
